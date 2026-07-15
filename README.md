@@ -3,7 +3,7 @@
 Ce dépôt contient un script Stata complet pour l'estimation d'un modèle de choix binaire.
 
 ## Contenu
-- `mon_modele.do` : Script principal contenant :
+- `Estimation_Model_Binaire.do` : Script principal contenant :
   - Estimation Logit et Probit
   - Comparaison des modèles (AIC, BIC)
   - Calcul des effets marginaux
